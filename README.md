@@ -25,7 +25,6 @@ This tool automatically gets lyrics of songs from audio files using the OpenAI W
     ```
 
 ## Running
-Change the file path 
 Run:
 ```
 python transcribe.py
