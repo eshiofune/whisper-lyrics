@@ -41,3 +41,6 @@ python transcribe.py
     RuntimeError: Model has been downloaded but the SHA256 checksum does not not match. Please retry loading the model.
     ```
     See: https://github.com/openai/whisper/discussions/1027
+
+## Contributing
+Please fork this repo and make a pull request to either the `transcribe` or `test` branch.
