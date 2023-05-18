@@ -11,6 +11,7 @@ This tool automatically gets lyrics of songs from audio files using the OpenAI W
     ```
     cp config_dist.py config.py
     ```
+    Make sure to modify the config values as appropriate.
 
 1. Create a virtual environment using [venv](https://docs.python.org/3/library/venv.html) for example:
     ```
